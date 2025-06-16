@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NOOBI.PHONE-CLONE
 
 An interactive UI-based Apple iPhone event clone built with **React**, **Tailwind CSS**, **GSAP**, and **Three.js**. This project replicates the smooth animations, 3D phone effects, and multimedia integration inspired by Apple's product launch design style.
@@ -42,3 +43,4 @@ git clone https://github.com/SDugtal/apple-clone.git
 cd apple-clone
 npm install
 npm run dev
+=======
